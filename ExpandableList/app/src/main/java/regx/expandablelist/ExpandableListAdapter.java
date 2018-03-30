@@ -58,6 +58,7 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter
         return i1;
     }
 
+
     @Override
     public boolean hasStableIds() {
         return false;
